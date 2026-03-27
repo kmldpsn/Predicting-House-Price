@@ -1,4 +1,4 @@
-# Predicting-House-Price
+# PREDICTING_HOUSE_PRICES
 
 This project aims to predict house prices using machine learning techniques based on various features such as location, size, number of rooms, and other property-related factors.
 The model helps estimate property values accurately, supporting buyers, sellers, and real estate professionals in making informed decisions.
